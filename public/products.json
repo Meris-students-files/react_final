@@ -1,0 +1,264 @@
+[
+    {
+      "id": 1,
+      "category": "woman",
+      "title": "Long sleeve Jacket",
+      "price": 200,
+      "discount": 150,
+      "review": {
+        "quantity": 3,
+        "star": 5
+      },
+      "image" : "p1.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+    },
+    {
+      "id": 2,
+      "category": "woman",
+      "title": "Jacket with wollen hat",
+      "price": 70,
+      "discount": 65,
+      "review": {
+        "quantity": 3,
+        "star": 5
+      },
+      "image" : "p2.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+    },
+    {
+      "id": 3,
+      "category": "woman",
+      "title": "Compact fashion t-shirt",
+      "price": 70,
+      "discount": 55,
+      "review": {
+        "quantity": 3,
+        "star": 5
+      },
+      "image" : "p3.webp",
+
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+    },
+    {
+      "id": 4,
+      "category": "woman",
+      "title": "Blue jins",
+      "price": 70,
+      "discount": 50,
+      "review": {
+        "quantity": 3,
+        "star": 5
+      },
+      "image" : "p4.jpeg",
+
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+    },
+    {
+      "id": 5,
+      "category": "woman",
+      "title": "Skirts with full setup",
+      "price": 700,
+      "discount": 695,
+      "review": {
+        "quantity": 3,
+        "star": 5
+      },
+      "image" : "p5.jpeg",
+
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+    },
+    {
+      "id": 6,
+      "category": "men",
+      "title": "Yellow Hoody",
+      "price": 200,
+      "discount": 180,
+      "review": {
+        "quantity": 3,
+        "star": 5
+      },
+      "image" : "p6.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+    },
+    {
+        "id": 7,
+        "category": "woman",
+        "title": "Black t-shirt for women",
+        "price": 60,
+        "discount": 20,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p7.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 8,
+        "category": "woman",
+        "title": "Gouwn with Red velvet",
+        "price": 500,
+        "discount": 350,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p8.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 9,
+        "category": "woman",
+        "title": "Pink beauty",
+        "price": 150,
+        "discount": 100,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p9.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 10,
+        "category": "men",
+        "title": "Jean's stylish Jacket",
+        "price": 250,
+        "discount": 245,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p10.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 11,
+        "category": "woman",
+        "title": "Jamdani Saree",
+        "price": 1000,
+        "discount": 800,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p11.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 12,
+        "category": "woman",
+        "title": "Black Jacket",
+        "price": 200,
+        "discount": 140,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p12.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 13,
+        "category": "men",
+        "title": "Black top with jeans",
+        "price": 130,
+        "discount": 120,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p13.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 14,
+        "category": "kids",
+        "title": "Clothes with bag",
+        "price": 80,
+        "discount": 50,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p14.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 15,
+        "category": "woman",
+        "title": "Stylish jeans in lightblue",
+        "price": 120,
+        "discount": 100,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p15.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 16,
+        "category": "men",
+        "title": "Unknown horizon",
+        "price": 400,
+        "discount": 350,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p16.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      }, {
+        "id": 17,
+        "category": "woman",
+        "title": "Light tops",
+        "price": 140,
+        "discount": 120,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p17.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 18,
+        "category": "woman",
+        "title": "Khakhi jeans",
+        "price": 250,
+        "discount": 190,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p18.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 19,
+        "category": "woman",
+        "title": "Black full sleeve",
+        "price": 180,
+        "discount": 170,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p19.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      },
+      {
+        "id": 20,
+        "category": "men",
+        "title": "Formal for Men",
+        "price": 180,
+        "discount": 170,
+        "review": {
+          "quantity": 3,
+          "star": 5
+        },
+        "image" : "p20.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam."
+      }
+  ]

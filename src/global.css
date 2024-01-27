@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.row {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+picture {
+    display: block;
+    overflow: hidden;
+}
+
+header li {
+    display: inline-block;
+}
+
+.equals .col {
+    width: 100%;
+}
+
+header .row {
+    justify-content: space-between;
+}
+
+.center {
+    justify-content: center;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bTB {
+    border-top: 1px solid #403F2B;
+    border-bottom: 1px solid #403F2B;
+}
+
+.align-end {
+    align-items: flex-end;
+}
+
+.w10 {
+    width: 10%;
+}
+
+.w20 {
+    width: 20%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.w40 {
+    width: 40%;
+
+}
+
+.w50 {
+    width: 50%;
+}
+
+.w60 {
+    width: 60%;
+
+}
+
+.w70 {
+    width: 70%;
+}
+
+.w80 {
+    width: 80%;
+
+}
+
+.w90 {
+    width: 90%;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.header-fixed {
+    height: 70px;
+}
+
+.header-fixed .row {
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    z-index: 7777;
+}
+
+.rel {
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.products .wrapper {
+    width: 25%;
+    padding: 20px;
+}
+
+.product {
+    border: 1px solid darkgrey;
+    border-radius: 7px;
+}
+
+.product picture {
+    height: 300px;
+}
+
+.produc-body {
+    padding: 10px;
+}
+
+.btn {
+    background: none;
+    padding: 7px;
+    border: 1px solid darkgray;
+    border-radius: 4px;
+    margin: 7px 0;
+}
+
+header {
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+header>.row {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: white;
+    z-index: 777;
+    align-items: center;
+}
+
+header ul {
+    align-items: center;
+}
+
+.cartitem {
+    display: flex;
+    margin: 5px;
+    justify-content: space-between;
+    align-items: center
+}
+
+.cartitem picture {
+    height: 100px
+}
+.disabled{
+    background-color: rgb(201, 201, 201);
+    color: gray;
+    border-color: gray;
+}
+
+
+.fa-heart{
+   fill: white;
+    color: white;
+    stroke: black;
+    stroke-width: 3px;
+}
+.active{
+    /* width: 24px; */
+    color: black;
+ }
+ .open{
+    transition: all 1s linear;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
